@@ -10,7 +10,7 @@ composer require (--global|--dev) nondaysun/db-variance-calculator
 ### Usage
 
 ```shell
-./bin/calculateVariance /path/to/git/work-dir /path/to/db-dump.sql /path/to/db-dump.sql
+./bin/console /path/to/git/work-dir /path/to/db-dump.sql /path/to/db-dump.sql
 ```
 
 ### Testing
